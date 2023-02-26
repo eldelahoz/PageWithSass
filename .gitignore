@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# Ignorar node por motivos de que solo necesito el codigo html
+package-lock.json
+package.json
+app.js
